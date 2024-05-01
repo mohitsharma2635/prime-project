@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "a990",
+      "fullName": "mohit sharma",
+      "email": "mohit@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "b454",
+      "fullName": "ankit lallar",
+      "email": "ankit@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
